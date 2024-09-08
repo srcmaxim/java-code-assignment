@@ -14,7 +14,7 @@ Also, just a minimum set of tests are present, feel free to bring more as well t
 
 ### 1. Location (Must have)
 
-> this code is located under package `com.fulfilment.application.monolith.location`
+> this code is located under package `com.fulfilment.application.monolith.locations`
 
 On the class `LocationGateway`, implement the method `resolveByIdentifier`. We advise you to start by this one as this is the most simple and is a pre-requirement for the next tasks. This is just a warm-up task 😃
 
